@@ -16,5 +16,9 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_cell","order":1,"path":"objects/obj_cell/obj_cell.yy",},
+    {"name":"obj_grid_manager","order":2,"path":"objects/obj_grid_manager/obj_grid_manager.yy",},
+    {"name":"RoomUI","order":16,"path":"roomui/RoomUI/RoomUI.yy",},
+  ],
 }
